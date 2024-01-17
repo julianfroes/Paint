@@ -1,0 +1,54 @@
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.exe
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.deps.json
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.runtimeconfig.json
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\bin\Debug\net6.0-windows\ref\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.pdb
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.Form1.resources
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.AssemblyInfo.cs
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\ref\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.pdb
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.genruntimeconfig.cache
+C:\Users\Julian\source\repos\Paint_Graficacion\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.Properties.Resources.resources
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.exe
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.deps.json
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.runtimeconfig.json
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\bin\Debug\net6.0-windows\ref\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.pdb
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.Graficacion_Unidad_2.resources
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.Properties.Resources.resources
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.AssemblyInfo.cs
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\ref\Paint_Graficacion.dll
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.pdb
+C:\Users\Julian\source\repos\Paint_Graficacion - copia\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.genruntimeconfig.cache
+C:\xampp\htdocs\Paint\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.exe
+C:\xampp\htdocs\Paint\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.deps.json
+C:\xampp\htdocs\Paint\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.runtimeconfig.json
+C:\xampp\htdocs\Paint\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.dll
+C:\xampp\htdocs\Paint\Paint_Graficacion\bin\Debug\net6.0-windows\ref\Paint_Graficacion.dll
+C:\xampp\htdocs\Paint\Paint_Graficacion\bin\Debug\net6.0-windows\Paint_Graficacion.pdb
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.Graficacion_Unidad_2.resources
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.Properties.Resources.resources
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.GenerateResource.cache
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.AssemblyInfo.cs
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.dll
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\ref\Paint_Graficacion.dll
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.pdb
+C:\xampp\htdocs\Paint\Paint_Graficacion\obj\Debug\net6.0-windows\Paint_Graficacion.genruntimeconfig.cache
